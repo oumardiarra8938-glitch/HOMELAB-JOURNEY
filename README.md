@@ -22,6 +22,13 @@ Maîtriser : cp, mv, rm, mkdir, touch
 
 ---
 
+---
+
+## Jour 3 - 09/09/2026
+
+- find, grep, man, history, alias
+- Lab : recherche de fichiers dans techcorp/
+
 ## 📅 Jour 2 — 08/09/2026
 
 ### ✅ Fait aujourd'hui
