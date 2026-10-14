@@ -1,0 +1,28 @@
+# Semaine 1 — Jour 1 : Découverte de Linux
+
+## Objectif
+Comprendre les commandes de base pour identifier l'utilisateur, la machine, le répertoire courant, le système d'exploitation et les interfaces réseau.
+
+## Commandes étudiées
+- `whoami` : afficher le nom de l'utilisateur connecté.
+- `hostname` : afficher le nom de la machine.
+- `pwd` : afficher le chemin du répertoire courant.
+- `cat /etc/os-release` : afficher les informations sur le système d'exploitation.
+- `ip -br addr` : afficher les interfaces réseau et leurs adresses IP sous forme résumée.
+
+## Acquis
+- Compréhension générale des commandes étudiées.
+- Révision réussie : 3/3.
+
+## Difficultés rencontrées
+Mémoriser `cat /etc/os-release` et `ip -br addr`.
+
+## Plan d'amélioration
+- Répéter les deux commandes sans consulter les notes.
+- Les exécuter dans le terminal Ubuntu.
+- Noter les résultats réels lors de la prochaine pratique.
+
+## Bilan
+Les commandes ont été étudiées et les questions de révision ont été réussies. Les sorties réelles du terminal ne sont pas consignées ici.
+
+**Prochaine étape :** apprendre à naviguer dans l'arborescence Linux.
