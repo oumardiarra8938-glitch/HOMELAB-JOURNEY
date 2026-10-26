@@ -20,7 +20,51 @@
 ### 🎯 Objectif demain
 Maîtriser : cp, mv, rm, mkdir, touch
 
----
+Linux — Jour 2 : fichiers, recherche et sauvegarde
+
+Objectifs
+
+- Créer et organiser des fichiers et des dossiers.
+- Lire et écrire du contenu.
+- Rechercher et identifier des fichiers.
+- Compter les fichiers et préparer une sauvegarde.
+
+Commandes étudiées
+
+- "mkdir -p" : créer une arborescence de dossiers.
+- "touch" : créer un fichier.
+- "echo" et "cat" : écrire et lire du texte.
+- "find" : rechercher des fichiers et dossiers.
+- "file" : identifier le type probable d'un fichier.
+- "wc -l" : compter les lignes reçues.
+- "|" : transmettre la sortie d'une commande à une autre.
+- "cp" : copier des fichiers.
+- "ls" : afficher le contenu d'un dossier.
+
+Mini-projet
+
+Organisation des documents d'une entreprise :
+
+- Création des dossiers "Entreprise/documents" et "Entreprise/archives".
+- Création de trois fichiers : "rapport.txt", "clients.txt" et "factures.txt".
+- Écriture et vérification du contenu.
+- Recherche et identification des fichiers.
+- Copie des fichiers vers le dossier "archives".
+- Vérification des copies.
+
+Évaluation
+
+- Test de consolidation : 4/4 (100 %).
+- Difficulté ressentie : facile.
+- Compréhension déclarée : bonne.
+
+Prochaine étape
+
+Jour 3 : utilisateurs, groupes et permissions Linux.
+
+Suivi
+
+Bilan GitHub : à enregistrer.
 
 ---
 
